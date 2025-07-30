@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dianyu-Lai
-- 👀 I’m interested in playing
+- 👀 I’m interested in exploring the unknown
 - 🌱 I’m currently learning python
 
 <!---
